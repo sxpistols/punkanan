@@ -1,24 +1,18 @@
-# punkanan
+# Punkanan
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+API :
+install json-server https://github.com/typicode/json-server
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+jalankan via command : 
+json-server -w db.json
